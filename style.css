@@ -1,0 +1,146 @@
+#cadre{
+    width: 60rem;
+    height: 60rem;
+    background-color:beige;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+    
+}
+
+h1{
+    text-align: center;
+    padding-top: 3rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.bloc{
+    width: 50rem;
+    height: 48.5rem;
+    background-color:darkolivegreen;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    border-radius: 4rem;
+}
+
+.bloc1{
+    width: 45rem;
+    height: 10rem;
+    background-color:white;
+    margin-left:5rem;
+    border-radius: 2rem;
+    font-size: 7rem;
+    text-align: right;
+  
+}
+.carreau1 , .carreau2 , .carreau3{
+    width: 6rem;
+    height: 5rem;
+    background-color:grey;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.carreau4{
+    width: 6rem;
+    height: 5rem;
+    background-color:brown;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+}
+
+.carreau5 , .carreau6 , .carreau7{
+    width: 6rem;
+    height: 5rem;
+    background-color:white;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 2rem;
+}
+
+.carreau8{
+    width: 6rem;
+    height: 5rem;
+    background-color:brown;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+}
+.carreau9 , .carreau10 , .carreau11{
+    width: 6rem;
+    height: 5rem;
+    background-color:white;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 2rem;
+
+}
+.carreau12{
+    width: 6rem;
+    height: 5rem;
+    background-color:brown;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+}
+.carreau13 , .carreau14 , .carreau15{
+    width: 6rem;
+    height: 5rem;
+    background-color:white;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 2rem;
+}
+.carreau16{
+    width: 6rem;
+    height: 5rem;
+    background-color:brown;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+}
+.carreau17 , .carreau18 , .carreau19 , .carreau20{
+    width: 6rem;
+    height: 5rem;
+    background-color:white;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    display: inline-block;
+    margin-right: -3rem;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 2rem;
+}
+
+
